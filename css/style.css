@@ -1,0 +1,88 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  color: #700933;
+}
+
+header .container .navbar-header a img{
+  padding-top: 5px;
+}
+
+.main{
+  background-color: red;
+}
+
+.inicio{
+  margin-top: 30px;
+}
+
+.inicio .row .col-md-12 ul li a{
+  color: #700933;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.btn{
+  text-align: left;
+  background-color: #787876;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #545453;
+  color: white;
+}
+
+.panel-primary {
+  border-color: #700933;
+}
+
+.panel-primary>.panel-heading{
+  background-color: #700933;
+  border-color: #700933;
+}
+
+.panel-primary>.panel-heading+.panel-collapse>.panel-body{
+  border-top-color: #700933;
+}
+
+footer{
+  background-color: black;
+  color: white;
+}
+
+footer h3{
+  color:white;
+}
+
+footer h4{
+  color: #BFBFBF;
+}
+
+footer a{
+  color: #8C8C8C;
+  text-decoration: none;
+}
+
+footer a:hover{
+  color: #878787;
+  text-decoration: underline;
+}
+
+footer p{
+  color: #BFBFBF;
+}
+
+footer .container .row .social-media .col-md-6 i .twitter{
+  color: #1da1f2;
+}
+
+footer .container .row .social-media .col-md-6 i .facebook{
+  color: #3b5998;
+}
